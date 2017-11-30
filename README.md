@@ -4,4 +4,4 @@
 
 А для упрощения коннекта к GitHub на Visual Studio можно установить расширение https://visualstudio.github.com/ и склонировать данный репозиторий
 
-Для начала изучения C# подойдет https://metanit.com
+Для начала изучения C# подойдет https://metanit.com/sharp/tutorial/
