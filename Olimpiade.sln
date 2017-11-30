@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olimpiade", "Olimpiade\Olimpiade.csproj", "{18C6C8CC-2605-4C38-9EB0-D85E616E0260}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lights", "Olimpiade\Lights.csproj", "{18C6C8CC-2605-4C38-9EB0-D85E616E0260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
