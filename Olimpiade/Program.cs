@@ -36,8 +36,10 @@ namespace Lights
         {
             int totalArea = w * l;
             int areaPerOneLamp = 4;
+            //в случае, общая площадь помещения не делится без остатка на покрываемую лампой площадь, значит нужна еще одна лампа
             if (totalArea % areaPerOneLamp != 0)
                 return (totalArea / areaPerOneLamp) + 1;
+            //иначе - возвращаем соотношение общей площади к покрываемой
             return totalArea / areaPerOneLamp;
         }
 
