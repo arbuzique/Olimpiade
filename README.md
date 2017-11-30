@@ -3,4 +3,5 @@
 Для полноценного использования Visual Studio можно завести так же учетную запись Microsoft https://signup.live.com/
 
 А для упрощения коннекта к GitHub на Visual Studio можно установить расширение https://visualstudio.github.com/ и склонировать данный репозиторий
+
 Для начала изучения C# подойдет https://metanit.com
