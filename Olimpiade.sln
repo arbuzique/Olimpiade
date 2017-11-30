@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lights", "Olimpiade\Lights.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University", "University\University.csproj", "{B1A921DB-2950-4AC0-A090-0AF8B67E00D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{D4D1D821-DA98-410F-AF1B-118509D61633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{01937926-368A-4A12-B058-2A19377A2D62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B1A921DB-2950-4AC0-A090-0AF8B67E00D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1A921DB-2950-4AC0-A090-0AF8B67E00D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1A921DB-2950-4AC0-A090-0AF8B67E00D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D1D821-DA98-410F-AF1B-118509D61633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D1D821-DA98-410F-AF1B-118509D61633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D1D821-DA98-410F-AF1B-118509D61633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D1D821-DA98-410F-AF1B-118509D61633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01937926-368A-4A12-B058-2A19377A2D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01937926-368A-4A12-B058-2A19377A2D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01937926-368A-4A12-B058-2A19377A2D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01937926-368A-4A12-B058-2A19377A2D62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
